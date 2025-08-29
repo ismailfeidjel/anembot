@@ -21,7 +21,7 @@ const mpcPath = '"c:\\Program Files (x86)\\MPC-HC\\mpc-hc.exe"';
 const soundPath = path.join(__dirname, "alert.mp3");
 
 // === CONFIGURATION ===
-const TELEGRAM_TOKEN = "7766149007:AAG-CoW7IHY3ZKostjTvY5Zad6yjTcpnTlw";
+const TELEGRAM_TOKEN = "";
 const CHECK_INTERVAL_MINUTES = 3;
 
 const httpsAgent = new https.Agent({ rejectUnauthorized: false });
